@@ -1,2 +1,2 @@
-module paramable
+module Paramable
 end
