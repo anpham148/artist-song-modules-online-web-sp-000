@@ -6,8 +6,6 @@ class Song
   extend Memorable, Findable
   attr_accessor :name, :artist
 
-
-
   @@songs = []
 
   def initialize
